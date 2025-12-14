@@ -4,13 +4,6 @@
   "description": "",
   "main": "index.js",
   "type": "module",
-<<<<<<< HEAD
-  "engines": {
-    "node": "18.x"
-  },
-=======
-  "engine":"22.x", 
->>>>>>> 60f3bfedee9f460bdd2ddf9aeef18ce928de3576
   "scripts": {
     "start": "node ./src/index.js"
   },
