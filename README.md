@@ -31,8 +31,9 @@ Pioneer Adventures is a full-stack MERN project built for a travel company speci
 ### Backend Features
 1. Node.js and Express server with **RESTful API endpoints**.  
 2. **MongoDB + Mongoose** for database management.  
-3. Admin authentication.  
-4. Environment-based configuration using `.env` for sensitive data like database URI and server port.  
+3. Admin authentication.
+4. Using File system to dynamically store, update and remove images and videos.
+5. Environment-based configuration using `.env` for sensitive data like database URI and server port.  
 
 ---
 
@@ -68,7 +69,7 @@ My overall expreience and learnings thorugh this project:
 
 - Enhanced UI/UX skills with animations using Framer Motion and responsive design with Styled-Components.
 
-- Gained experience with Git workflows, version control, and deploying production-ready applications.
+- Learned to use and manage file system.
 
 
 ---
