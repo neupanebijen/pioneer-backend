@@ -46,29 +46,29 @@ Pioneer Adventures is a full-stack MERN project built for a travel company speci
 
 ## Learnings
 
-First experience managing a large project structure, improving project organization and maintainability.
+- First experience managing a large project structure, improving project organization and maintainability.
 
-Advanced CSS, React, and Node.js skills through building interactive and dynamic features.
+- Advanced CSS, React, and Node.js skills through building interactive and dynamic features.
 
-Hands-on experience with cloud hosting, from server setup to deployment.
+- Hands-on experience with cloud hosting, from server setup to deployment.
 
-Implemented a custom WYSIWYG editor for dynamic content updates.
+- Implemented a custom WYSIWYG editor for dynamic content updates.
 
-Learned to generate PDF files dynamically from backend data.
+- Learned to generate PDF files dynamically from backend data.
 
-Integrated social media APIs to push content to multiple platforms.
+- Integrated social media APIs to push content to multiple platforms.
 
-Developed secure admin authentication and environment-based configuration.
+- Developed secure admin authentication and environment-based configuration.
 
-Using tokens to check the login state for admins.   
+- Using tokens to check the login state for admins.   
 
-Implemented a custom routing system to match previous website routes.   
+- Implemented a custom routing system to match previous website routes.   
 
-Improved understanding of RESTful API design and database management with MongoDB and Mongoose.
+- Improved understanding of RESTful API design and database management with MongoDB and Mongoose.
 
-Enhanced UI/UX skills with animations using Framer Motion and responsive design with Styled-Components.
+- Enhanced UI/UX skills with animations using Framer Motion and responsive design with Styled-Components.
 
-Gained experience with Git workflows, version control, and deploying production-ready applications.
+- Gained experience with Git workflows, version control, and deploying production-ready applications.
 
 
 ---
