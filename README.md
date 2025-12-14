@@ -1,8 +1,8 @@
-# Pioneer Adventures
+# Business Challenge
 
-**Tagline:** Explore the world’s highest peaks with ease and style.
+**Tagline:** This is a repurposed website, I have removed all the confidential inforamtion from the clients. This website has been clearead to display as portfolio.  
 
-Pioneer Adventures is a full-stack MERN project built for a travel company specializing in mountain expeditions. This dynamic platform allows users to explore trips, generate PDFs, contact the company, and manage content with an intuitive admin interface.
+Business Challenge is a full-stack MERN project built for a travel company specializing in mountain expeditions. This dynamic platform allows users to explore trips, generate PDFs, contact the company, and manage content with an intuitive admin interface.
 
 ---
 
