@@ -1,5 +1,6 @@
 import nodemailer from "nodemailer"
 import User from "../models/user.js"
+import "dotenv/config"
 
 export const getCode = async (req, res) => {
   const code = Math.floor(Math.random() * 10000)
@@ -7,16 +8,16 @@ export const getCode = async (req, res) => {
   var transporter = nodemailer.createTransport({
     service: "gmail",
     auth: {
-      user: "pioneeradvent@gmail.com",
-      pass: "klofusiuwkpnxoee",
+      user: process.env.USER_AUTH,
+      pass: process.env.USER_PASSWORD,
     },
   })
 
   transporter.verify().then(console.log).catch(console.error)
 
   var mailOptions = {
-    from: "pioneeradvent@gmail.com",
-    to: "pioneeradvent@gmail.com",
+    from: process.env.USER_AUTH,
+    to: process.env.USER_AUTH,
     subject: "Password Reset Email",
     text: `Password reset code is : ${code}`,
   }
